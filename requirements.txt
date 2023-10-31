@@ -1,0 +1,9 @@
+spacy
+gensim
+pandas
+numpy
+jsonlines
+nltk
+pyLDAvis
+WordCloud
+plotly
